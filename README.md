@@ -7,5 +7,5 @@ How to run:
 - An HTML file will be generated in the directory, and it should open automically in a broswer when the program finishes running.
 
 References:
- - I wrote the movie.py following the tutorials on the Udacity Full Stack Web Developer course.
- - The fresh_tomatoes is a file I acquired my the Udacity course mentioned above.
+ - I wrote movie.py following the tutorials on the Udacity Full Stack Web Developer course.
+ - The fresh_tomatoes is a file I acquired from the Udacity course mentioned above.
